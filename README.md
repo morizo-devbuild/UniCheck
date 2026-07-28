@@ -20,3 +20,13 @@ While building UniCheck, I learned about:
 - connecting APIs and automation workflows
 - handling user input and validation
 - working with databases
+
+### Data Sources
+
+## Data Sources
+
+This project uses the `college-majors` dataset from the FiveThirtyEight Data repository.
+
+Source: https://github.com/fivethirtyeight/data
+
+The dataset is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/).
