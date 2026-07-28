@@ -23,8 +23,6 @@ While building UniCheck, I learned about:
 
 ### Data Sources
 
-## Data Sources
-
 This project uses the `college-majors` dataset from the FiveThirtyEight Data repository.
 
 Source: https://github.com/fivethirtyeight/data
