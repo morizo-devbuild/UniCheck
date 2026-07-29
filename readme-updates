@@ -6,7 +6,7 @@ UniCheck is a Telegram bot designed to help students find universities based on 
 * **UniMatch** - matches universities with the student based on their preferences. *Planned*
 * **AppTrack** - tracks application and deadlines. *Planned*
 
-### Built with:
+
 * n8n
 * Telegram Bot API
 * JavaScript
@@ -27,4 +27,4 @@ This project uses the `college-majors` dataset from the FiveThirtyEight Data rep
 
 Source: https://github.com/fivethirtyeight/data
 
-The dataset is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/).
+The dataset is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/).### Built with:
